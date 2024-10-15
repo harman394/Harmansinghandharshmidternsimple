@@ -13,7 +13,6 @@ outdoor game defined as any type of activity or sport which play outside in the 
 ## image of football
 
 ![alt text](image/football.jpg)
-[alt text](football.jpg)!
 
 ## Benefit of outdoor games
 
